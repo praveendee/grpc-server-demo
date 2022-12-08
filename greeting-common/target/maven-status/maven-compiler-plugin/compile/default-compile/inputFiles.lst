@@ -1,0 +1,6 @@
+/Users/praveendurai/IdeaProjects/grpc-server-demo/greeting-common/target/generated-sources/protobuf/java/com/google/grpc/greeting/HelloRequest.java
+/Users/praveendurai/IdeaProjects/grpc-server-demo/greeting-common/target/generated-sources/protobuf/java/com/google/grpc/greeting/HelloReplyOrBuilder.java
+/Users/praveendurai/IdeaProjects/grpc-server-demo/greeting-common/target/generated-sources/protobuf/java/com/google/grpc/greeting/HelloReply.java
+/Users/praveendurai/IdeaProjects/grpc-server-demo/greeting-common/target/generated-sources/protobuf/grpc-java/com/google/grpc/greeting/GreeterGrpc.java
+/Users/praveendurai/IdeaProjects/grpc-server-demo/greeting-common/target/generated-sources/protobuf/java/com/google/grpc/greeting/HelloRequestOrBuilder.java
+/Users/praveendurai/IdeaProjects/grpc-server-demo/greeting-common/target/generated-sources/protobuf/java/com/google/grpc/greeting/GreetingProto.java
